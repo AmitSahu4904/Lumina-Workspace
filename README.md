@@ -6,9 +6,8 @@ A production-ready collaborative task management system with real-time collabora
 
 ## 🔗 Live Application Links
 
-* **Live Demo (Frontend - Vercel):** [https://lumina-workspace.vercel.app](https://YOUR_VERCEL_APP_URL.vercel.app) *(Replace with your actual Vercel deployment URL)*
-* **API Service (Backend - Render/Railway):** [https://lumina-backend.onrender.com](https://YOUR_RENDER_BACKEND_URL.onrender.com) *(Replace with your actual Render/Railway URL)*
-
+* **Live Demo (Frontend - Vercel):** https://lumina-frontend-chi.vercel.app
+* **API Service (Backend - Render):** https://lumina-backend-z62w.onrender.com
 ---
 
 ## 📊 Database Schema (ERD)
